@@ -13,7 +13,9 @@
 
 I'm Joseph, and this is my split keyb! It features 58 keys, bluetooth support, and rechargeable LIPO! Im using the supermini nrf52840 as the mcu due to it being a budget nice nano! im kinda rushing rn since my FRC comp is in a few hours!
 
+I've turned towards the supermini for my MCU as it supports Bluetooth while being cheaper than alternatives like the nicenano(those are so expensive omg). I've also decided to use KMK for my firmware as it's really good for wireless kbs, but it's harder to use than QMK.
 
+I decided on a ergonomic layout due to wanting something portable to use for school and this is the perfect idea, the wireless concept came from wanting to do this with hackpad; however, I was limited in terms due to the mcu chosen.
 ## About 
 
 Ive looked at ergo split keyboards like the corne and drawn inspiration from them, which allowed me to create this keyboard!
