@@ -1,5 +1,6 @@
 
 # Split-KV
+##just a note, it says this repo was created in june, however the orginal one is made in march under a fork of hackpad :p!
 
 ## 📸 Gallery
 ![image](https://github.com/user-attachments/assets/facc2d41-047b-40d8-8d85-fbbf2560d993)
@@ -9,7 +10,7 @@
 
 
 ## Overview
-#just a note, it says this repo was created in june, however the orginal one is made in march under a fork of hackpad :p
+
 I'm Joseph, and this is my split keyb! It features 58 keys, bluetooth support, and rechargeable LIPO! Im using the supermini nrf52840 as the mcu due to it being a budget nice nano! im kinda rushing rn since my FRC comp is in a few hours!
 
 
