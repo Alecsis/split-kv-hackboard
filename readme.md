@@ -1,6 +1,6 @@
 
 # Split-KV
-##just a note, it says this repo was created in june, however the orginal one is made in march under a fork of hackpad :p!
+## just a note, it says this repo was created in june, however the orginal one is made in march under a fork of hackpad :p!
 
 ## 📸 Gallery
 ![image](https://github.com/user-attachments/assets/facc2d41-047b-40d8-8d85-fbbf2560d993)
