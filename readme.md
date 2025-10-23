@@ -18,53 +18,18 @@ I'm Joseph, and this is my split keyb! It features 58 keys, bluetooth support, a
 
 Ive looked at ergo split keyboards like the corne and drawn inspiration from them, which allowed me to create this keyboard!
 
-# BOM:
-- 2x Super Mini nrf52840
-- 58x Choc Switches (idc abt type)
-- 3x PCB
-- 58x smd mounted diodes (im fancy this time LMAFO)
-- 58x Choc Keycaps
-- 8x 3M screws
-- 8x 3M Heat sink inserts
-- 58x Choc hotswaps
-- 2x smd Reset switch
-- 2x SPDT Toggle Switch
-- 2x Lipo 3.4V 100mAh
+| Category | Name | Vendor | Quantity | Price (USD) | Link |
+|:----------|:------|:---------|:----------:|:-------------:|:------|
+| PCB | PCB | JLCPCB | 3 | $17.00 | [Link](https://jlcpcb.com/) |
+| Switches | Choc Switches (any type) | ChosFox | 58 | $43.18 | [Link](https://chosfox.com/products/kailh-chocs) |
+| Keycaps | MBK PBT Blank Choc Keycaps | Keebio | 58 | $25.00 | [Link](https://keeb.io/products/mbk-keycaps) |
+| Fasteners | M3 Inserts | AliExpress | 8 | $1.00 | [Link](https://www.aliexpress.us/item/3256809350944670.html?src=google&pdp_npi=4%40dis!USD!7.59!3.79!!!!!%40!12000049636036822!ppc!!!&gatewayAdapt=glo2usa) |
+| Misc Electronics | 1N4148W-7-F Diode (SMD) | DigiKey | 58 | $3.00 | [Link](https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-7-F/814371) |
+| Misc Electronics | R-666994 Reset Switch (SMD) | DigiKey | 2 | $4.00 | [Link](https://www.digikey.com/en/products/detail/c-k/R666994/10095289) |
+| Misc Electronics | SPDT Toggle Switch | DigiKey | 2 | $3.64 | [Link](https://www.digikey.com/en/products/detail/nkk-switches/M2012SS1W01/105581) |
+| Misc Electronics | 3.4V 100mAh LiPo Battery | Battery | 2 | $11.90 | [Link](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1570/5054546) |
+| Misc Electronics | Kailh Choc v1 Hotswap Sockets | ChosFox | 6 | $8.70 | [Link](https://chosfox.com/products/kailh-choc-switch-1350-hot-swap-sockets) |
+| Misc Electronics | Super Mini nRF52840 | AliExpress | 2 | $5.26 | [Link](https://www.aliexpress.us/item/3256808426826043.html?spm=a2g0o.productlist.main.1.1eb74cf7UxTgCl&algo_pvid=7e400c28-d937-4820-9e1d-4da8e552b4fc&algo_exp_id=7e400c28-d937-4820-9e1d-4da8e552b4fc-0&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%216.83%215.26%21%21%2148.41%2137.28%21%402103039517611805497462333e6e47%2112000045950519867%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A3a88428c%3Bm03_new_user%3A-29895&curPageLogUid=KJKK44yVeQ7b&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008613140795%7C_p_origin_prod%3A) |
 
-## PCB
-|Vendor | Price |
-|:---- |:----:|
-| JLCPCB | $17 |
-
-## Switches
-|Name |Vendor | Price |
-|:--- |:---- |:----:|
-|Kailh Choc v1 Switches |ChosFox |$43.18|
-
-
-## Keycaps
-|Name |Vendor | Price |
-|:--- |:---- |:----:|
-|MBK PBT Blank Choc Keycaps |Keebio |$25.00|
-
-
-## Fasteners
-|Name |Vendor | Price |
-|:--- |:---- |:----:|
-| M3 Inserts| AliExpress | $1.20 |
-| M3 Heat Set| AliExpress |$3.07  |
-
-## Misc Electronics
-|Name |Vendor | Price |
-|:--- |:---- |:----:|
-| 1N4148W-7-F Diode| DigiKey| $3|
-| R-666994 Reset Switch| DigiKey| $4|
-| 2 DPDT Switches| DigiKey | $3.64 |
-| 3.3v lipo| YDL Battery | $7.24 |
-| Kailh Choc v1 Hotswap Sockets| AliExpress | $8.18 |
-| supermini nrf52840| AliExpress | $6.25| 
-
-
-## Colors
 
 Ill print this out myself!
